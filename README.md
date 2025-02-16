@@ -16,7 +16,7 @@ This repository serves as:
 - **Others:** Cloud storage concepts, Git/GitHub, and more!  
 
 ## License
-This repository is [MIT Licensed](LICENSE). Feel free to use the code for learning purposes, but please attribute if reusing significant portions.
+This repository is open for all. Feel free to use the code for learning purposes, but please attribute if reusing significant portions.
 
 ---
 
