@@ -11,9 +11,12 @@ This repository serves as:
 
 ## 🛠️ Technologies Covered
 - **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js  
+- **Backend:** Node.js, Java
 - **Databases:** PostgreSQL  
-- **Others:** Cloud storage concepts, Git/GitHub, and more!  
+- **Others:** Cloud storage concepts, Git/GitHub, and more!
+
+## 🤝 Contributing  
+Feel free to fork this repository and submit pull requests.  
 
 ## License
 This repository is open for all. Feel free to use the code for learning purposes, but please attribute if reusing significant portions.
